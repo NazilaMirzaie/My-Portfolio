@@ -18,7 +18,7 @@ All sections are part of one responsive page with navigation links.
 3. Open `index.html` in your browser, or use the **Live Server** extension in VS Code.
 
 ## Personalize it
-- Replace `assets/nazila-study-portrait.png` with your preferred portrait (keep the same filename).
+- Replace `photo_2026-10-19_20-45-56.jpg` with your preferred portrait (keep the same filename).
 - The Asma Ul Husna project uses `assets/asma-ul-husna-background.png`.
 - Update the email, social links, project links, dates, and education details in `index.html`.
 - Adjust skill-bar widths in `index.html` by changing values such as `--level:72%`.
